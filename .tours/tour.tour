@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "react-class-vs-es6-component",
+  "steps": [
+    {
+      "file": "react-class-vs-es6-components/src/Users/Users.js",
+      "description": "Users",
+      "line": 9
+    },
+    {
+      "file": "react-class-vs-es6-components/src/Users/User.js",
+      "description": "Users Imported from Users.js",
+      "line": 8
+    },
+    {
+      "file": "react-class-vs-es6-components/src/Users/User.js",
+      "description": "if(!Age) ",
+      "line": 4
+    }
+  ]
+}

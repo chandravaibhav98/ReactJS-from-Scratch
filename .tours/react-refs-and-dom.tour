@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "react-refs-and-dom",
+  "steps": [
+    {
+      "file": "react-refs-and-dom/src/App.js",
+      "description": "ref=((input))=>{...}"
+    }
+  ],
+  "ref": "master"
+}

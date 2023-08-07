@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "react-lists",
+  "steps": [
+    {
+      "file": "react-lists/src/App.js",
+      "description": "Module to Generate ID using a package : \r\nnpm install react-html-id",
+      "line": 4
+    }
+  ],
+  "ref": "master"
+}
